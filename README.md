@@ -2,6 +2,7 @@
 面向白纹伊蚊与玉米病斑的 AI 监测项目
 
 数据集与可直接运行的代码：
+
 corn：https://www.kaggle.com/code/viviorangeani/cornleaf-detect
 mosquito：https://www.kaggle.com/code/viviorangeani/mosquitoalert
 
