@@ -4,6 +4,7 @@
 数据集与可直接运行的代码：
 
 corn：https://www.kaggle.com/code/viviorangeani/cornleaf-detect
+
 mosquito：https://www.kaggle.com/code/viviorangeani/mosquitoalert
 
 **目标检测模型（YOLOv8n）+数学建模应用**
